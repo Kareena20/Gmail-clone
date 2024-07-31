@@ -1,0 +1,1 @@
+A simple Gmail clone built with modern web technologies.This project aims to replicate the core features of Gmail, including email composition, inbox management, and basic search functionality, using a combination of frontend and backend technologies.
